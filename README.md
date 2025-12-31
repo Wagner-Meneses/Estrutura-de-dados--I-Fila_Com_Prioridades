@@ -6,7 +6,7 @@ Aluno: Wagner Veras Meneses
 
 A fila de prioridade nada mais é que uma fila comum que permite que elementos sejam adicionados associados com uma prioridade. Cada elemento na fila deve possuir um dado adicional que representa sua prioridade de atendimento. Uma regra explicita define que o elemento de maior prioridade (o que tem o maior número associado) deve ser o primeiro a ser removido da fila, quando uma remoção é requerida.   
 
-Nesse projeto a Fila de Prioridade apresenta cinco níveis:
+Nesse projeto a Fila de Prioridades apresenta cinco níveis:
 
   1. Muito baixa
   2. Baixa
@@ -18,14 +18,14 @@ A estrutura permmite armazenar elementos com diferentes prioridades, e o process
 No momento da implementação da fila o usuário define sua capacidade máxima. 
 
 O sistema apresenta opções de interação com usuário.
-  1- Adicionar novo atendimento ( nome e prioridade);
+  1- Adicionar novo atendimento (nome e prioridade);
   2- Atender o primeiro elemento da fila e removê-lo em seguida;
   3- Verificar o próximo elemento da fila a ser atendido;
   4- Verificar se a fila está vazia;
   5- Verificar se a fila está cheia;
   6- Exibir a quantidades de atendimentos a realizar;
   7- Esvaziar a fila;
-  8- Exibir todos os elementos da fila (é apresentado nome e prioridade);
+  8- Exibir todos os elementos da fila (apresentado nome e prioridade);
   0- Sair do sistema.
 
   
